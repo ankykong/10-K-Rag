@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "question": "What was Google's total revenue for the fiscal year ended December 31, 2022?",
+            "answer": "$282.8 billion",
+            "context": "For the fiscal year ended December 31, 2022, our total revenues were $282.8 billion."
+        },
+        {
+            "question": "What were the primary drivers of Google's revenue growth in 2022?",
+            "answer": "The primary drivers of Google's revenue growth in 2022 were increased advertising revenues from Google Search, YouTube, and Network Members' properties.",
+            "context": "The increase in our total revenues in 2022 was primarily driven by increased advertising revenues from Google Search, YouTube, and Network Members' properties."
+        },
+        {
+            "question": "What was Google's total revenue for the fiscal year ended December 31, 2021?",
+            "answer": "$257 billion",
+            "context": "In 2021, we generated $257 billion in revenue."
+        },
+        {
+            "question": "How much did Google invest in research and development in 2021, and what percentage of total revenue did this represent?",
+            "answer": "$31 billion, which represented approximately 12% of its total revenue",
+            "context": "We invested $31 billion in R&D, about 12% of our revenue."
+        },
+        {
+            "question": "What was Google's total revenue for the fiscal year ended December 31, 2020, and how does it compare to the previous year?",
+            "answer": "Google's total revenue for the fiscal year ended December 31, 2020, was $182.5 billion, an increase from $161.9 billion in 2019.",
+            "context": "For the fiscal year ended December 31, 2020, Google reported revenues of $182.5 billion, compared to $161.9 billion in 2019, reflecting continued growth across Google Services and Google Cloud."
+        },
+        {
+            "question": "How did Google's operating income change in 2020 compared to 2019?",
+            "answer": "Google's operating income in 2020 was $41.2 billion, up from $34.2 billion in 2019.",
+            "context": "Operating income for 2020 was $41.2 billion, up from $34.2 billion the previous year, reflecting our strong growth and ongoing investments in research and development."
+        },
+        {
+            "Question": "What was Google's total revenue for the fiscal year ended December 31, 2019, and how does it compare to the previous year?",
+            "Answer": "Google's total revenue for the fiscal year ended December 31, 2019, was $161.9 billion, which represents an 18% growth year over year from $136.8 billion in 2018.",
+            "Context": "Executive Overview of Results Below are our key financial results for the fiscal year ended December 31, 2019 (consolidated unless otherwise noted): \u2022 Revenues of $161.9 billion and revenue growth of 18% year over year, constant currency revenue growth of 20% year over year."
+        },
+        {
+            "Question": "What are the main revenue streams contributing to Google's non-advertising revenue growth?",
+            "Answer": "Google's non-advertising revenue growth is primarily driven by sales of apps, in-app purchases, digital content products, hardware, licensing and service fees, including fees received for Google Cloud offerings, and subscription and other services.",
+            "Context": "The portion of our revenues that we derive from non-advertising revenues is increasing and may affect margins. Non-advertising revenues have grown over time. We expect this trend to continue as we focus on expanding our offerings to our users through products and services like Google Cloud, Google Play, hardware products, and YouTube subscriptions."
+        },
+        {
+            "question": "What was Google's total revenue for the fiscal year ended December 31, 2023?",
+            "answer": "$320 billion",
+            "context": "For the fiscal year ended December 31, 2023, our total revenues were $320 billion."
+        },
+        {
+            "question": "What are the primary focuses of Google's AI investment as outlined in the 2023 annual report?",
+            "answer": "Google's primary focuses of AI investment include enhancing its AI infrastructure, offering AI-optimized infrastructure, and developing AI platforms and generative AI models to support productivity and innovation.",
+            "context": "We aim to build the most advanced, safe, and responsible AI with models that are developed, trained, and rigorously tested at scale powered by our continued investment in AI technical infrastructure. In December 2023, we launched Gemini, our most capable and general model."
+        }
+    ]
+]

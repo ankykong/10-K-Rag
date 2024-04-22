@@ -1,0 +1,100 @@
+What is the fiscal year end date for Apple Inc. as reported in their 2022 Form 10-K?
+How many shares of common stock were outstanding for Apple Inc. as of October 14, 2022?
+What is the par value per share of Apple Inc.'s common stock as registered on The Nasdaq Stock Market LLC?
+What are the notable new products included in Apple Inc.'s iPhone line as reported in the fiscal year 2023?
+What were Apple's major competitive factors in 2021 according to their 10-K report?
+How much was Apple's aggregate market value of voting and non-voting stock held by non-affiliates as of March 26, 2021?
+What was the aggregate market value of the voting and non-voting stock held by non-affiliates of Apple Inc. as of March 29, 2019?
+How many shares of common stock were issued and outstanding for Apple Inc. as of October 18, 2019?
+What was Apple Inc.'s aggregate market value of the voting and non-voting stock held by non-affiliates as of March 27, 2020?
+What was the total number of Apple Inc.'s common stock shares issued and outstanding as of October 16, 2020?
+What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2021?
+How many shares of Class A and Class B common stock did Meta have outstanding as of January 28, 2022?
+What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2020?
+How many shares of Class A and Class B common stock did Meta have outstanding as of January 22, 2021?
+What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 28, 2019?
+How many shares of Class A and Class B common stock did Meta have outstanding as of January 23, 2020?
+What is Meta Platforms, Inc.'s total investment in the Reality Labs segment for the year 2022?
+What percentage of Meta Platforms, Inc.'s total costs and expenses in 2022 was recognized in the Family of Apps segment?
+What are the key investment areas Meta Platforms, Inc. plans to focus on in 2024?
+How did Meta Platforms, Inc. allocate its total investments in the Reality Labs and Family of Apps segments in 2023?
+What are the reported net sales figures for Amazon in North America and Internationally for the year 2020?
+What was the operating income for Amazon's AWS segment for the year 2020?
+What was Amazon's net sales in 2020?
+What percentage of Amazon's 2020 net sales were derived from international sales?
+What was Amazon's total net sales for the year ended December 31, 2022?
+What strategy is Amazon employing to manage its growth?
+What was Amazon's total net sales reported for the year ended December 31, 2023?
+What is the expected impact of foreign exchange rates on Amazon's net sales for the first quarter of 2024?
+What was Amazon's total revenue in 2023?
+How much total long-term debt did Amazon report as of December 31, 2023?
+What major transaction was terminated by NVIDIA in 2022 due to regulatory challenges?
+How does NVIDIA's AI-powered computing platform contribute to climate science and environmental sustainability?
+What was the termination cost NVIDIA recorded in fiscal year 2023 due to the Arm Share Purchase Agreement?
+What is the primary focus of NVIDIA's Hopper architecture introduced in fiscal year 2023?
+What new AI capabilities did NVIDIA introduce in its gaming platforms as of the 2020 fiscal year?
+What total investment did NVIDIA make in research and development since its inception until 2020?
+What significant acquisition did NVIDIA make in 2020, as discussed in the 2021 Form 10-K?
+What are NVIDIA's main market segments as outlined in their 2021 Form 10-K?
+What significant partnership did NVIDIA announce in 2024 regarding their AI capabilities?
+What are the key components of NVIDIA's Data Center platform as of 2024?
+What was Broadcom's total revenue for the fiscal year ended October 30, 2022?
+How did Broadcom's research and development expenses change in fiscal year 2022 compared to fiscal year 2021?
+What was the percentage of Broadcom's net revenue derived from sales to distributors in fiscal year 2021?
+What percentage of Broadcom's 2021 fiscal year net revenue came from Apple Inc.?
+What was Broadcom's gross margin in fiscal year 2020, and how did it compare to fiscal year 2019?
+How did Broadcom's acquisition of the Symantec Business impact its operating expenses in fiscal year 2020?
+What was the aggregate market value of Broadcom Inc.'s voting and non-voting common equity held by non-affiliates as of May 3, 2019?
+How many shares of common stock did Broadcom Inc. have outstanding as of November 29, 2019?
+What was the reported net revenue of Broadcom for the fiscal year ended October 29, 2023?
+What significant corporate acquisition did Broadcom complete on November 22, 2023?
+What new solutions did Salesforce introduce in fiscal year 2022 to address specific industry needs?
+How is Salesforce enhancing customer service capabilities as of fiscal 2022?
+What new technology did Salesforce introduce in fiscal year 2023 to enhance real-time data integration across its platforms?
+How is Salesforce advancing its service offerings to address the needs of specific industries as of 2023?
+What strategic acquisitions did Salesforce complete in fiscal 2020 to enhance their service offerings?
+What are the core values that drive Salesforce's business and how do they influence company culture?
+What significant acquisition did Salesforce complete in fiscal year 2021 to expand its industry-specific offerings?
+How does Salesforce's acquisition of Slack, expected to close in the second quarter of fiscal 2022, align with its growth strategy?
+What new platform did Salesforce introduce in 2024 to enhance AI-powered app development?
+How is Salesforce's Slack offering integrated into its Customer 360 platform to boost productivity across teams?
+What strategic areas is Microsoft focusing on to drive its business model?
+How is Microsoft addressing the security challenges in its operations?
+What were Microsoft's key investment areas in digital transformation as outlined in their 2021 Form 10-K?
+What commitments did Microsoft announce regarding environmental sustainability by 2030?
+What is Microsoft's approach to handling the challenges posed by the COVID-19 pandemic as described in their 2020 Form 10-K?
+What are Microsoft's key investment areas to drive its business model as discussed in their 2020 10-K?
+What strategic commitments has Microsoft made regarding sustainability by 2030?
+How is Microsoft advancing its AI capabilities as described in their 2023 Form 10-K?
+What significant acquisition did Microsoft complete in March 2022 as mentioned in their 2022 Form 10-K?
+What is Microsoft's vision for the future of personal computing as described in their 2022 Form 10-K?
+What are the key components of Oracle's cloud strategy as outlined in their 2019 Form 10-K?
+What were Oracle's total revenues from its cloud and license business as a percentage of overall revenues in fiscal years 2017, 2018, and 2019?
+What was Oracle's total revenue from its cloud and license business as a percentage of overall revenue in fiscal 2020?
+How is Oracle addressing the COVID-19 pandemic in terms of supporting critical services and organizations?
+What new cloud services did Oracle introduce in fiscal 2021 to enhance their infrastructure and application offerings?
+How did Oracle's investment in research and development in fiscal year 2021 compare to the previous year?
+What major corporate acquisition did Oracle complete in June 2022?
+How much did Oracle invest in research and development in fiscal 2022?
+How much did Oracle invest in research and development in fiscal year 2023, and how does this compare to previous years?
+What percentage of Oracle's total revenues was represented by cloud services in fiscal years 2021, 2022, and 2023?
+What was Google's total revenue for the fiscal year ended December 31, 2022?
+What were the primary drivers of Google's revenue growth in 2022?
+What was Google's total revenue for the fiscal year ended December 31, 2021?
+How much did Google invest in research and development in 2021, and what percentage of total revenue did this represent?
+What was Google's total revenue for the fiscal year ended December 31, 2020, and how does it compare to the previous year?
+How did Google's operating income change in 2020 compared to 2019?
+What was Google's total revenue for the fiscal year ended December 31, 2019, and how does it compare to the previous year?
+What are the main revenue streams contributing to Google's non-advertising revenue growth?
+What was Google's total revenue for the fiscal year ended December 31, 2023?
+What are the primary focuses of Google's AI investment as outlined in the 2023 annual report?
+What are the main products and services offered by Tesla as of the end of 2019?
+What new vehicle platforms did Tesla begin producing in 2019?
+What new vehicle models did Tesla begin delivering in 2022?
+What significant technology did Tesla introduce in 2022 for energy storage?
+What innovative vehicle did Tesla begin delivering to customers in November 2023?
+What new manufacturing facility did Tesla announce in March 2023, and what is its significance?
+What are the key product lines of Tesla as detailed in their 2020 Form 10-K?
+How has Tesla structured its business operations into reportable segments as of 2020?
+What new models did Tesla begin delivering in 2021?
+What major production facilities does Tesla plan to begin manufacturing at in 2022?

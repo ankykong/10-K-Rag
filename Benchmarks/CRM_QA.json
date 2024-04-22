@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "Question": "What new solutions did Salesforce introduce in fiscal year 2022 to address specific industry needs?",
+            "Answer": "In fiscal year 2022, Salesforce introduced the Health & Safety Solution, or Dreampass, which helps companies safely return to work, manage contact tracing, and helps with vaccine distribution. They also introduced the Net Zero Cloud, which helps customers analyze and report on their carbon footprint.",
+            "Context": "In fiscal year 2022, as a result of customer input and demand, we introduced our Health & Safety Solution, or Dreampass, which helps companies safely return to work, travel, manage contact tracing, and also helps governments, healthcare providers, nonprofits, and organizations distribute vaccines around the world. We also introduced Net Zero Cloud, which helps customers analyze and report on their carbon footprint and provide actionable insights on emissions data in order to create long-term, sustainable value."
+        },
+        {
+            "Question": "How is Salesforce enhancing customer service capabilities as of fiscal 2022?",
+            "Answer": "Salesforce's Service offering enables companies to deliver personalized customer service at scale. It connects service agents with customers across any touchpoint and includes predictive recommendations and chatbots to resolve issues across digital channels.",
+            "Context": "Service. Service enables companies to deliver trusted and highly personalized customer service and support at scale. Our customers use our Service offering to connect their service agents with customers anytime and anywhere, across any touchpoint from the phone to digital channels to self-service portals, with connected omnichannel engagement. Our Service offering also helps our customers\u2019 customers resolve top, routine issues with predictions, recommendations and chatbots across digital channels."
+        },
+        {
+            "Question": "What new technology did Salesforce introduce in fiscal year 2023 to enhance real-time data integration across its platforms?",
+            "Answer": "Salesforce introduced the Genie Customer Data Cloud in fiscal year 2023, which is a hyperscale real-time data platform that powers the entire Salesforce Customer 360 platform, enabling seamless, personalized customer experiences.",
+            "Context": "Customer Data Cloud. At Dreamforce 2022, we announced the Genie Customer Data Cloud ('Genie'), a hyperscale real-time data platform that powers the entire Salesforce Customer 360 platform. With Genie, companies can power seamless, highly personalized experiences across sales, service, marketing and commerce that continuously adapt to changing customer information and needs in real time."
+        },
+        {
+            "Question": "How is Salesforce advancing its service offerings to address the needs of specific industries as of 2023?",
+            "Answer": "Salesforce has developed industry-specific solutions like the Financial Services Cloud, Health Cloud, and Sustainability Cloud, which provide tailored features and capabilities to meet the unique needs of different sectors, helping them to manage compliance and customer relations effectively.",
+            "Context": "Industry Verticals. Our industry vertical service offerings are suited to meet the needs of our customers in specific industries, such as financial services, healthcare and life sciences, manufacturing and more. They include out-of-the-box capabilities that provide the speed and flexibility to keep up with changing times and customer demands, accelerating time to value."
+        },
+        {
+            "Question": "What strategic acquisitions did Salesforce complete in fiscal 2020 to enhance their service offerings?",
+            "Answer": "In fiscal 2020, Salesforce completed the acquisitions of MuleSoft, an integration platform company, and Tableau, an analytics company, to expand their service offerings.",
+            "Context": "To advance the development of the Customer 360 platform, we have been acquisitive. For example, in fiscal year 2019, we acquired MuleSoft, Inc. ('MuleSoft'), an integration platform company, and in fiscal year 2020, we acquired Tableau Software Inc. ('Tableau'), an analytics company."
+        },
+        {
+            "Question": "What are the core values that drive Salesforce's business and how do they influence company culture?",
+            "Answer": "Salesforce is driven by core values of trust, customer success, innovation, and equality. These values foster trust in technology, focus on customer success, drive continuous innovation, and promote equality and diversity within the company and community, influencing a culture of dialogue, collaboration, and recognition.",
+            "Context": "Salesforce is committed to a core set of values: trust, customer success, innovation and equality. Foremost among these is trust, which is the foundation for everything we do. Our customers trust our technology to deliver the highest levels of security, privacy, performance and availability at scale. Customer success is at the core of our business, with people, programs and a focus on making every customer successful. We believe our continuous innovation drives customer success and builds trust, which in turn drives mutual growth. Finally, we value the equality of every individual at our company and in our community as we believe that equality, sustainability and diversity make us a better company. Our culture is driven by these four core values which in turn fosters dialogue, collaboration, recognition and a sense of family."
+        },
+        {
+            "Question": "What significant acquisition did Salesforce complete in fiscal year 2021 to expand its industry-specific offerings?",
+            "Answer": "Salesforce acquired Vlocity, Inc., an industry-specific cloud and mobile software solutions company, in fiscal year 2021.",
+            "Context": "In fiscal year 2021, we acquired Vlocity, Inc. ('Vlocity'), an industry-specific cloud and mobile software solutions company."
+        },
+        {
+            "Question": "How does Salesforce's acquisition of Slack, expected to close in the second quarter of fiscal 2022, align with its growth strategy?",
+            "Answer": "The acquisition of Slack is expected to enhance Salesforce's growth strategy by integrating Slack's leading channel-based messaging platform, thereby expanding Salesforce's offerings and capabilities in workplace communication.",
+            "Context": "We also signed a definitive agreement to acquire Slack Technologies, Inc. ('Slack'), a leading channel-based messaging platform, which is expected to close in the second quarter of fiscal 2022."
+        },
+        {
+            "Question": "What new platform did Salesforce introduce in 2024 to enhance AI-powered app development?",
+            "Answer": "Salesforce introduced the Einstein 1 Platform in 2024, which enables customers to connect data and build AI-powered apps with low-code, transforming CRM experiences.",
+            "Context": "As a result of customer feedback, in fiscal 2024 we introduced the Einstein 1 platform, which allows our customers to connect data to build AI-powered apps with low-code and deliver entirely new CRM experiences."
+        },
+        {
+            "Question": "How is Salesforce's Slack offering integrated into its Customer 360 platform to boost productivity across teams?",
+            "Answer": "Slack is deeply integrated into Salesforce's Customer 360, enhancing productivity across sales, service, and marketing teams by bringing together the right people, processes, and customer data within Slack.",
+            "Context": "With Slack Sales Elevate, for example, sales teams can improve productivity and accelerate deals to close by bringing together the right people, processes and customer data from Sales Cloud within Slack."
+        }
+    ]
+]

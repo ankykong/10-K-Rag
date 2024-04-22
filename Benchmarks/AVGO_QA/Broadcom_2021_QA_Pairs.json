@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was the percentage of Broadcom's net revenue derived from sales to distributors in fiscal year 2021?",
+        "answer": "53%",
+        "context": "Sales of products to distributors accounted for 53% and 42% of our net revenue for fiscal years 2021 and 2020, respectively."
+    },
+    {
+        "question": "What percentage of Broadcom's 2021 fiscal year net revenue came from Apple Inc.?",
+        "answer": "Approximately 20%",
+        "context": "We believe aggregate sales to Apple Inc., through all channels, accounted for approximately 20% and 15% of our net revenue for fiscal years 2021 and 2020, respectively."
+    }
+]

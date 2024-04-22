@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2020, and how does it compare to the previous year?",
+        "answer": "Google's total revenue for the fiscal year ended December 31, 2020, was $182.5 billion, an increase from $161.9 billion in 2019.",
+        "context": "For the fiscal year ended December 31, 2020, Google reported revenues of $182.5 billion, compared to $161.9 billion in 2019, reflecting continued growth across Google Services and Google Cloud."
+    },
+    {
+        "question": "How did Google's operating income change in 2020 compared to 2019?",
+        "answer": "Google's operating income in 2020 was $41.2 billion, up from $34.2 billion in 2019.",
+        "context": "Operating income for 2020 was $41.2 billion, up from $34.2 billion the previous year, reflecting our strong growth and ongoing investments in research and development."
+    }
+]

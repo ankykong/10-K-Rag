@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "What was Broadcom's gross margin in fiscal year 2020, and how did it compare to fiscal year 2019?",
+            "answer": "Broadcom's gross margin in fiscal year 2020 was $13,516 million, which represented 57% of net revenue. This was an increase from fiscal year 2019, where the gross margin was $12,483 million, representing 55% of net revenue.",
+            "context": "Gross margin was $13,516 million, or 57% of net revenue, for fiscal year 2020, compared to $12,483 million, or 55% of our net revenue, for fiscal year 2019. The increase was primarily due to contributions from our Symantec enterprise security solutions, as well as favorable product mix within our semiconductor solutions segment, compared to the corresponding prior fiscal year."
+        },
+        {
+            "question": "How did Broadcom's acquisition of the Symantec Business impact its operating expenses in fiscal year 2020?",
+            "answer": "The acquisition of the Symantec Business led to an increase in several operating expenses in fiscal year 2020. Research and development expenses increased by $272 million, selling, general and administrative expenses increased by $226 million, and amortization of acquisition-related intangible assets recognized in operating expenses increased by $503 million.",
+            "context": "Research and development expense increased $272 million, or 6%, in fiscal year 2020, compared to the prior fiscal year. The increase was primarily due to our acquisition of the Symantec Business... Selling, general and administrative expense increased $226 million, or 13%, in fiscal year 2020... The increase was primarily due to our acquisition of the Symantec Business and associated acquisition-related costs... Amortization of acquisition-related intangible assets recognized in operating expenses increased $503 million, or 27%, in fiscal year 2020."
+        }
+    ]
+}

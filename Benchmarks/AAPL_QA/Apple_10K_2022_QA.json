@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "What is the fiscal year end date for Apple Inc. as reported in their 2022 Form 10-K?",
+        "Answer": "September 24, 2022",
+        "Context": "For the fiscal year ended September 24, 2022"
+    },
+    {
+        "Question": "How many shares of common stock were outstanding for Apple Inc. as of October 14, 2022?",
+        "Answer": "15,908,118,000 shares",
+        "Context": "15,908,118,000 shares of common stock were issued and outstanding as of October 14, 2022."
+    }
+]

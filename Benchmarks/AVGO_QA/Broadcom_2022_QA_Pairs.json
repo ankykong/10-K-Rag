@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was Broadcom's total revenue for the fiscal year ended October 30, 2022?",
+        "answer": "$33,912 million",
+        "context": "Our net revenue for fiscal year 2022 was $33,912 million, up 21% from $27,979 million in fiscal year 2021."
+    },
+    {
+        "question": "How did Broadcom's research and development expenses change in fiscal year 2022 compared to fiscal year 2021?",
+        "answer": "Research and development expenses increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021.",
+        "context": "Research and development expense increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021."
+    }
+]

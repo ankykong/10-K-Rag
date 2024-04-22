@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "Question": "What was Amazon's total net sales for the year ended December 31, 2022?",
+            "Answer": "Amazon's total net sales for the year ended December 31, 2022, were $513,983 million.",
+            "Context": "Net Sales: North America $279,833 $315,880, International $127,787 $118,007, AWS $62,202 $80,096, Consolidated $469,822 $513,983. Consolidated net sales increased by 9% in 2022."
+        },
+        {
+            "Question": "What strategy is Amazon employing to manage its growth?",
+            "Answer": "Amazon is rapidly and significantly expanding its global operations, including increasing its product and service offerings and scaling its infrastructure to support its retail and services businesses.",
+            "Context": "We are continuing to rapidly and significantly expand our global operations, including increasing our product and service offerings and scaling our infrastructure to support our retail and services businesses. The complexity of the current scale of our business can place significant strain on our management, personnel, operations, systems, technical performance, financial resources, and internal financial control and reporting functions, and our expansion increases these factors."
+        }
+    ]
+}

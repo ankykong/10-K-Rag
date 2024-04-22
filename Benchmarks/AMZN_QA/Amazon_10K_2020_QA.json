@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "What was Amazon's net sales in 2020?",
+        "Answer": "$386 billion",
+        "Context": "Net sales increased 38% to $386 billion in 2020, compared with $280 billion in 2019."
+    },
+    {
+        "Question": "What percentage of Amazon's 2020 net sales were derived from international sales?",
+        "Answer": "27%",
+        "Context": "International net sales accounted for 27% of our net sales in 2020."
+    }
+]

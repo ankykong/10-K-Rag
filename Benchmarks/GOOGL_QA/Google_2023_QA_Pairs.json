@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2023?",
+        "answer": "$320 billion",
+        "context": "For the fiscal year ended December 31, 2023, our total revenues were $320 billion."
+    },
+    {
+        "question": "What are the primary focuses of Google's AI investment as outlined in the 2023 annual report?",
+        "answer": "Google's primary focuses of AI investment include enhancing its AI infrastructure, offering AI-optimized infrastructure, and developing AI platforms and generative AI models to support productivity and innovation.",
+        "context": "We aim to build the most advanced, safe, and responsible AI with models that are developed, trained, and rigorously tested at scale powered by our continued investment in AI technical infrastructure. In December 2023, we launched Gemini, our most capable and general model."
+    }
+]

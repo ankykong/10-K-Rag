@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "Question": "What are the main products and services offered by Tesla as of the end of 2019?",
+            "Answer": "As of the end of 2019, Tesla offers high-performance fully electric vehicles and energy generation and storage systems. Their products include electric vehicles like Model 3, Model Y, Model S, Model X, Cybertruck, Tesla Semi, and a new Tesla Roadster. Tesla also offers services related to its products, such as vehicle service centers, Mobile Service technicians, body shops, Supercharger stations, and Destination Chargers.",
+            "Context": "We design, develop, manufacture, sell and lease high-performance fully electric vehicles and energy generation and storage systems, and offer services related to our products. We are the world\u2019s first vertically integrated sustainable energy company, offering end-to-end clean energy products, including generation, storage and consumption. We generally sell our products directly to customers, including through our website and retail locations."
+        },
+        {
+            "Question": "What new vehicle platforms did Tesla begin producing in 2019?",
+            "Answer": "In 2019, Tesla began producing the Model Y, a compact sport utility vehicle built on the Model 3 platform. Tesla also started ramping up production of Model 3 at Gigafactory Shanghai.",
+            "Context": "Model Y is a compact sport utility vehicle (SUV) built on the Model 3 platform with the capability for seating for up to seven adults, which we began producing in January 2020 and expect to commence delivering in the first quarter of 2020. We currently manufacture Model Y at the Fremont Factory, and are further ramping production there and making preparations for production next at Gigafactory Shanghai. We currently offer Model Y in dual motor all-wheel drive Long Range and Performance versions."
+        },
+        {
+            "Question": "What new vehicle models did Tesla begin delivering in 2022?",
+            "Answer": "In 2022, Tesla began early production and deliveries of the Tesla Semi, its first commercial electric vehicle.",
+            "Context": "In December 2022, we began early production and deliveries of the Tesla Semi, our first commercial electric vehicle."
+        },
+        {
+            "Question": "What significant technology did Tesla introduce in 2022 for energy storage?",
+            "Answer": "Tesla introduced Megapack, a lithium-ion battery energy storage product for commercial, industrial, utility, and energy generation customers.",
+            "Context": "Energy Storage Products Powerwall and Megapack are our lithium-ion battery energy storage products. Powerwall is designed to store energy at a home or small commercial facility. Megapack is an energy storage solution for commercial, industrial, utility and energy generation customers."
+        },
+        {
+            "Question": "What innovative vehicle did Tesla begin delivering to customers in November 2023?",
+            "Answer": "In November 2023, Tesla began delivering the Cybertruck, a full-size electric pickup truck with a stainless steel exterior.",
+            "Context": "In November 2023, we entered the consumer pickup truck market with first deliveries of the Cybertruck, a full-size electric pickup truck with a stainless steel exterior that has the utility and strength of a truck while featuring the speed of a sports car."
+        },
+        {
+            "Question": "What new manufacturing facility did Tesla announce in March 2023, and what is its significance?",
+            "Answer": "In March 2023, Tesla announced the location of their next Gigafactory in Monterrey, Mexico. This facility is significant as it helps Tesla increase production capacity and cost-competitiveness in significant markets by adding local manufacturing.",
+            "Context": "In March 2023, we announced the location of our next Gigafactory in Monterrey, Mexico. Generally, we continue to expand production capacity at our existing facilities. We also intend to further increase cost-competitiveness in our significant markets by strategically adding local manufacturing."
+        },
+        {
+            "Question": "What are the key product lines of Tesla as detailed in their 2020 Form 10-K?",
+            "Answer": "Tesla's key product lines include electric vehicles such as Model 3, Model Y, Model S, and Model X, as well as energy generation and storage products like solar energy systems and battery storage solutions.",
+            "Context": "Tesla, Inc. designs, develops, manufactures, and sells high-performance fully electric vehicles and energy generation and storage systems. Tesla's automotive segment includes electric vehicles such as Model S, Model 3, Model X, and Model Y. The energy generation and storage segment includes products like Powerwall, Powerpack, and Solar Roof."
+        },
+        {
+            "Question": "How has Tesla structured its business operations into reportable segments as of 2020?",
+            "Answer": "As of 2020, Tesla has structured its business operations into two reportable segments: Automotive and Energy Generation and Storage.",
+            "Context": "Tesla operates two reportable business segments: Automotive and Energy Generation and Storage. The Automotive segment focuses on the design, development, manufacturing, and sale of electric vehicles. The Energy Generation and Storage segment deals with the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products."
+        },
+        {
+            "Question": "What new models did Tesla begin delivering in 2021?",
+            "Answer": "In 2021, Tesla began delivering new versions of the Model S and Model X, which offer higher performance and range.",
+            "Context": "Model S and Model X feature the highest performance characteristics and longest ranges that we offer in a sedan and SUV, respectively, and we manufacture both models at the Fremont Factory. In 2021, we began delivering new versions of the Model S and Model X, which offer higher performance and range."
+        },
+        {
+            "Question": "What major production facilities does Tesla plan to begin manufacturing at in 2022?",
+            "Answer": "Tesla plans to begin production at Gigafactory Berlin in Germany and Gigafactory Texas in Austin, Texas in 2022.",
+            "Context": "We also intend to further increase cost-competitiveness in our significant markets by strategically adding local manufacturing, including at Gigafactory Berlin in Germany and Gigafactory Texas in Austin, Texas, which will begin production in 2022."
+        }
+    ]
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was the reported net revenue of Broadcom for the fiscal year ended October 29, 2023?",
+        "answer": "$33,912 million",
+        "context": "Our net revenue for fiscal year 2023 was $33,912 million."
+    },
+    {
+        "question": "What significant corporate acquisition did Broadcom complete on November 22, 2023?",
+        "answer": "Broadcom completed the acquisition of VMware in a cash-and-stock transaction.",
+        "context": "On November 22, 2023, we acquired VMware in a cash-and-stock transaction (the 'VMware Merger')..."
+    }
+]

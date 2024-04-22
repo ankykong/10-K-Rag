@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "What is the fiscal year end date for Apple Inc. as reported in their 2022 Form 10-K?",
+        "Answer": "September 24, 2022",
+        "Context": "For the fiscal year ended September 24, 2022"
+    },
+    {
+        "Question": "How many shares of common stock were outstanding for Apple Inc. as of October 14, 2022?",
+        "Answer": "15,908,118,000 shares",
+        "Context": "15,908,118,000 shares of common stock were issued and outstanding as of October 14, 2022."
+    },
+    {
+        "Question": "What is the par value per share of Apple Inc.'s common stock as registered on The Nasdaq Stock Market LLC?",
+        "Answer": "$0.00001",
+        "Context": "Common Stock, $0.00001 par value per share AAPL The Nasdaq Stock Market LLC"
+    },
+    {
+        "Question": "What are the notable new products included in Apple Inc.'s iPhone line as reported in the fiscal year 2023?",
+        "Answer": "iPhone 15 Pro, iPhone 15",
+        "Context": "iPhone is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 15 Pro, iPhone 15, iPhone 14, iPhone 13 and iPhone SE."
+    },
+    {
+        "Question": "What were Apple's major competitive factors in 2021 according to their 10-K report?",
+        "Answer": "Apple identified price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation as the principal competitive factors in 2021.",
+        "Context": "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation."
+    },
+    {
+        "Question": "How much was Apple's aggregate market value of voting and non-voting stock held by non-affiliates as of March 26, 2021?",
+        "Answer": "As of March 26, 2021, the aggregate market value of the voting and non-voting stock held by non-affiliates of Apple was approximately $2,021,360,000,000.",
+        "Context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 26, 2021, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $2,021,360,000,000."
+    },
+    {
+        "Question": "What was the aggregate market value of the voting and non-voting stock held by non-affiliates of Apple Inc. as of March 29, 2019?",
+        "Answer": "The aggregate market value of the voting and non-voting stock held by non-affiliates of Apple Inc. as of March 29, 2019, was approximately $874,698,000,000.",
+        "Context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 29, 2019, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $874,698,000,000."
+    },
+    {
+        "Question": "How many shares of common stock were issued and outstanding for Apple Inc. as of October 18, 2019?",
+        "Answer": "As of October 18, 2019, Apple Inc. had 4,443,265,000 shares of common stock issued and outstanding.",
+        "Context": "4,443,265,000 shares of common stock were issued and outstanding as of October 18, 2019."
+    },
+    {
+        "question": "What was Apple Inc.'s aggregate market value of the voting and non-voting stock held by non-affiliates as of March 27, 2020?",
+        "answer": "Approximately $1,070,633,000,000",
+        "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 27, 2020, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $1,070,633,000,000."
+    },
+    {
+        "question": "What was the total number of Apple Inc.'s common stock shares issued and outstanding as of October 16, 2020?",
+        "answer": "17,001,802,000 shares",
+        "context": "17,001,802,000 shares of common stock were issued and outstanding as of October 16, 2020."
+    },
+    {
+        "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2021?",
+        "answer": "$857 billion",
+        "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 30, 2021, the last business day of the registrant's most recently completed second fiscal quarter, was $857 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+    },
+    {
+        "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 28, 2022?",
+        "answer": "As of January 28, 2022, Meta had 2,309,080,018 shares of Class A common stock and 412,861,942 shares of Class B common stock outstanding.",
+        "context": "On January 28, 2022, the registrant had 2,309,080,018 shares of Class A common stock and 412,861,942 shares of Class B common stock outstanding."
+    },
+    {
+        "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2020?",
+        "answer": "$563 billion",
+        "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 30, 2020, the last business day of the registrant's most recently completed second fiscal quarter, was $563 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+    },
+    {
+        "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 22, 2021?",
+        "answer": "As of January 22, 2021, Meta had 2,405,448,410 shares of Class A common stock and 442,221,541 shares of Class B common stock outstanding.",
+        "context": "On January 22, 2021, the registrant had 2,405,448,410 shares of Class A common stock and 442,221,541 shares of Class B common stock outstanding."
+    },
+    {
+        "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 28, 2019?",
+        "answer": "$478 billion",
+        "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 28, 2019, the last business day of the registrant's most recently completed second fiscal quarter, was $478 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+    },
+    {
+        "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 23, 2020?",
+        "answer": "As of January 23, 2020, Meta had 2,405,745,740 shares of Class A common stock and 444,704,919 shares of Class B common stock outstanding.",
+        "context": "On January 23, 2020, the registrant had 2,405,745,740 shares of Class A common stock and 444,704,919 shares of Class B common stock outstanding."
+    },
+    {
+        "Question": "What is Meta Platforms, Inc.'s total investment in the Reality Labs segment for the year 2022?",
+        "Answer": "$15.88 billion",
+        "Context": "Our total RL investments were $15.88 billion in 2022 and include expenses relating to headcount and technology development across these efforts."
+    },
+    {
+        "Question": "What percentage of Meta Platforms, Inc.'s total costs and expenses in 2022 was recognized in the Family of Apps segment?",
+        "Answer": "82%",
+        "Context": "In 2022, 82% of our total costs and expenses were recognized in FoA and 18% were recognized in RL."
+    },
+    {
+        "Question": "What are the key investment areas Meta Platforms, Inc. plans to focus on in 2024?",
+        "Answer": "AI, the metaverse, discovery engine, monetization of products and services, regulatory readiness, and enhancing developer efficiency.",
+        "Context": "In 2024, we intend to focus on six key investment areas: AI, the metaverse, our discovery engine, monetization of our products and services, regulatory readiness, and enhancing developer efficiency to build, iterate, and optimize products quickly."
+    },
+    {
+        "Question": "How did Meta Platforms, Inc. allocate its total investments in the Reality Labs and Family of Apps segments in 2023?",
+        "Answer": "In 2023, 80% of total costs and expenses were recognized in the Family of Apps segment and 20% in the Reality Labs segment.",
+        "Context": "The majority of our investments are directed toward developing our family of apps. In 2023, 80% of our total costs and expenses were recognized in FoA and 20% were recognized in RL."
+    },
+    {
+        "Question": "What are the reported net sales figures for Amazon in North America and Internationally for the year 2020?",
+        "Answer": "In 2020, Amazon reported net sales of $236,282 million in North America and $104,412 million internationally.",
+        "Context": "Net sales include product and service sales. Product sales represent revenue from the sale of products and related shipping fees and digital media content where we record revenue gross. Service sales primarily represent third-party seller fees, which includes commissions and any related fulfillment and shipping fees, AWS sales, advertising services, Amazon Prime membership fees, and certain digital content subscriptions. Net sales information is as follows (in millions): Year Ended December 31, 2019 2020 Net Sales: North America $170,773 $236,282 International $74,723 $104,412 AWS $35,026 $45,370 Consolidated $280,522 $386,064."
+    },
+    {
+        "Question": "What was the operating income for Amazon's AWS segment for the year 2020?",
+        "Answer": "The operating income for Amazon's AWS segment in 2020 was $13,531 million.",
+        "Context": "Operating Income (Loss) by segment is as follows (in millions): Year Ended December 31, 2019 2020 Operating Income (Loss): North America $7,033 $8,651 International ($1,693) $717 AWS $9,201 $13,531 Consolidated $14,541 $22,899."
+    },
+    {
+        "Question": "What was Amazon's net sales in 2020?",
+        "Answer": "$386 billion",
+        "Context": "Net sales increased 38% to $386 billion in 2020, compared with $280 billion in 2019."
+    },
+    {
+        "Question": "What percentage of Amazon's 2020 net sales were derived from international sales?",
+        "Answer": "27%",
+        "Context": "International net sales accounted for 27% of our net sales in 2020."
+    },
+    {
+        "Question": "What was Amazon's total net sales for the year ended December 31, 2022?",
+        "Answer": "Amazon's total net sales for the year ended December 31, 2022, were $513,983 million.",
+        "Context": "Net Sales: North America $279,833 $315,880, International $127,787 $118,007, AWS $62,202 $80,096, Consolidated $469,822 $513,983. Consolidated net sales increased by 9% in 2022."
+    },
+    {
+        "Question": "What strategy is Amazon employing to manage its growth?",
+        "Answer": "Amazon is rapidly and significantly expanding its global operations, including increasing its product and service offerings and scaling its infrastructure to support its retail and services businesses.",
+        "Context": "We are continuing to rapidly and significantly expand our global operations, including increasing our product and service offerings and scaling our infrastructure to support our retail and services businesses. The complexity of the current scale of our business can place significant strain on our management, personnel, operations, systems, technical performance, financial resources, and internal financial control and reporting functions, and our expansion increases these factors."
+    },
+    {
+        "Question": "What was Amazon's total net sales reported for the year ended December 31, 2023?",
+        "Answer": "$574,785 million",
+        "Context": "Net sales $ 513,983 $ 15,495 $ 529,478 $ 574,785 $ 71 $ 574,856"
+    },
+    {
+        "Question": "What is the expected impact of foreign exchange rates on Amazon's net sales for the first quarter of 2024?",
+        "Answer": "A favorable impact of approximately 40 basis points",
+        "Context": "First Quarter 2024 Guidance - Net sales are expected to be between $138.0 billion and $143.5 billion, or to grow between 8% and 13% compared with first quarter 2023. This guidance anticipates a favorable impact of approximately 40 basis points from foreign exchange rates."
+    },
+    {
+        "Question": "What was Amazon's total revenue in 2023?",
+        "Answer": "$574,785 million",
+        "Context": "Consolidated $ 469,822 $ 513,983 $ 574,785 - Consolidated total revenue listed by year with the 2023 total being $574,785 million."
+    },
+    {
+        "Question": "How much total long-term debt did Amazon report as of December 31, 2023?",
+        "Answer": "$67,182 million",
+        "Context": "Total face value of long-term debt 70,542 67,182 - As of December 31, 2023, Amazon's total face value of long-term debt was reported as $67,182 million."
+    },
+    {
+        "Question": "What major transaction was terminated by NVIDIA in 2022 due to regulatory challenges?",
+        "Answer": "The acquisition of Arm Limited from SoftBank was terminated.",
+        "Context": "On February 8, 2022, NVIDIA and SoftBank Group Corp., or SoftBank, announced the termination of the Share Purchase Agreement whereby NVIDIA would have acquired Arm Limited, or Arm, from SoftBank. The parties agreed to terminate because of significant regulatory challenges preventing the completion of the transaction."
+    },
+    {
+        "Question": "How does NVIDIA's AI-powered computing platform contribute to climate science and environmental sustainability?",
+        "Answer": "NVIDIA plans to build Earth-2, an AI supercomputer dedicated to predicting the impacts of climate change. This system will build a digital twin of the Earth on NVIDIA's Omniverse platform, enabling ultra-high-resolution climate modeling.",
+        "Context": "We plan to build Earth-2, an AI supercomputer dedicated to predicting the impacts of climate change. The system will build a digital twin of the Earth on our Omniverse platform, enable scientists to do ultra-high-resolution climate modeling, and put mitigation and adaptation tools into the hands of cities and nations so they can act with more urgency."
+    },
+    {
+        "Question": "What was the termination cost NVIDIA recorded in fiscal year 2023 due to the Arm Share Purchase Agreement?",
+        "Answer": "$1.35 billion",
+        "Context": "In February 2022, NVIDIA and SoftBank Group Corp., or SoftBank, announced the termination of the Share Purchase Agreement whereby NVIDIA would have acquired Arm Limited, or Arm, from SoftBank. The parties agreed to terminate because of significant regulatory challenges preventing the completion of the transaction. We recorded an acquisition termination cost of $1.35 billion in fiscal year 2023 reflecting the write-off of the prepayment provided at signing."
+    },
+    {
+        "Question": "What is the primary focus of NVIDIA's Hopper architecture introduced in fiscal year 2023?",
+        "Answer": "The Hopper architecture is focused on accelerating applications such as large language models, deep recommender systems, genomics, and complex digital twins. It includes a Transformer Engine designed to accelerate the training of AI transformer models by an order of magnitude over the prior generation.",
+        "Context": "In fiscal year 2023, we introduced the Hopper architecture of data center GPUs, and started shipping the first Hopper-based GPU \u2013 the flagship H100. Hopper includes a Transformer Engine, designed to accelerate the training of AI transformer models by an order of magnitude over the prior generation. H100 is ideal for accelerating applications such as large language models, deep recommender systems, genomics and complex digital twins."
+    },
+    {
+        "Question": "What new AI capabilities did NVIDIA introduce in its gaming platforms as of the 2020 fiscal year?",
+        "Answer": "NVIDIA introduced NVIDIA RTX ray tracing technology to enable real-time, cinematic-quality rendering in its gaming platforms, using ray tracing to simulate the physical behavior of light for greater realism.",
+        "Context": "We developed NVIDIA RTX ray tracing technology to enable real-time, cinematic-quality rendering in the RTX line-up of our gaming platforms. Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes."
+    },
+    {
+        "Question": "What total investment did NVIDIA make in research and development since its inception until 2020?",
+        "Answer": "NVIDIA invested over $20 billion in research and development since its inception.",
+        "Context": "Innovation is at our core. We invested over $20 billion in research and development since our inception, yielding inventions that are essential to modern computing."
+    },
+    {
+        "Question": "What significant acquisition did NVIDIA make in 2020, as discussed in the 2021 Form 10-K?",
+        "Answer": "NVIDIA entered into a Share Purchase Agreement to acquire Arm Limited from SoftBank for a transaction valued at $40 billion.",
+        "Context": "On September 13, 2020, we entered into a Share Purchase Agreement, or the Purchase Agreement, with Arm Limited, or Arm, and SoftBank Group Capital Limited and SVF Holdco (UK) Limited, or together, SoftBank, for us to acquire, from SoftBank, all allotted and issued ordinary shares of Arm in a transaction valued at $40 billion."
+    },
+    {
+        "Question": "What are NVIDIA's main market segments as outlined in their 2021 Form 10-K?",
+        "Answer": "NVIDIA's main market segments include Graphics and Compute & Networking.",
+        "Context": "We report our business results in two segments. Our Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; and automotive platforms for infotainment systems. Our Compute & Networking segment includes Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; and Jetson for robotics and other embedded platforms."
+    },
+    {
+        "Question": "What significant partnership did NVIDIA announce in 2024 regarding their AI capabilities?",
+        "Answer": "NVIDIA announced a partnership with leading cloud service providers to host the NVIDIA DGX Cloud, an AI-training-as-a-service platform.",
+        "Context": "In fiscal year 2024, we launched the NVIDIA DGX Cloud, an AI-training-as-a-service platform which includes cloud-based infrastructure and software for AI, customizable pretrained AI models, and access to NVIDIA experts. We have partnered with leading cloud service providers to host this service in their data centers."
+    },
+    {
+        "Question": "What are the key components of NVIDIA's Data Center platform as of 2024?",
+        "Answer": "The key components include compute and networking offerings typically delivered as systems, subsystems, or modules, along with software and services. This includes NVIDIA AI Enterprise software, DGX Cloud service, and acceleration libraries.",
+        "Context": "The NVIDIA Data Center platform is focused on accelerating the most compute-intensive workloads, such as AI, data analytics, graphics and scientific computing, delivering significantly better performance and power efficiency relative to conventional CPU-only approaches. It is deployed in cloud, hyperscale, on-premises and edge data centers. The platform consists of compute and networking offerings typically delivered to customers as systems, subsystems, or modules, along with software and services."
+    },
+    {
+        "question": "What was Broadcom's total revenue for the fiscal year ended October 30, 2022?",
+        "answer": "$33,912 million",
+        "context": "Our net revenue for fiscal year 2022 was $33,912 million, up 21% from $27,979 million in fiscal year 2021."
+    },
+    {
+        "question": "How did Broadcom's research and development expenses change in fiscal year 2022 compared to fiscal year 2021?",
+        "answer": "Research and development expenses increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021.",
+        "context": "Research and development expense increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021."
+    },
+    {
+        "question": "What was the percentage of Broadcom's net revenue derived from sales to distributors in fiscal year 2021?",
+        "answer": "53%",
+        "context": "Sales of products to distributors accounted for 53% and 42% of our net revenue for fiscal years 2021 and 2020, respectively."
+    },
+    {
+        "question": "What percentage of Broadcom's 2021 fiscal year net revenue came from Apple Inc.?",
+        "answer": "Approximately 20%",
+        "context": "We believe aggregate sales to Apple Inc., through all channels, accounted for approximately 20% and 15% of our net revenue for fiscal years 2021 and 2020, respectively."
+    },
+    {
+        "question": "What was Broadcom's gross margin in fiscal year 2020, and how did it compare to fiscal year 2019?",
+        "answer": "Broadcom's gross margin in fiscal year 2020 was $13,516 million, which represented 57% of net revenue. This was an increase from fiscal year 2019, where the gross margin was $12,483 million, representing 55% of net revenue.",
+        "context": "Gross margin was $13,516 million, or 57% of net revenue, for fiscal year 2020, compared to $12,483 million, or 55% of our net revenue, for fiscal year 2019. The increase was primarily due to contributions from our Symantec enterprise security solutions, as well as favorable product mix within our semiconductor solutions segment, compared to the corresponding prior fiscal year."
+    },
+    {
+        "question": "How did Broadcom's acquisition of the Symantec Business impact its operating expenses in fiscal year 2020?",
+        "answer": "The acquisition of the Symantec Business led to an increase in several operating expenses in fiscal year 2020. Research and development expenses increased by $272 million, selling, general and administrative expenses increased by $226 million, and amortization of acquisition-related intangible assets recognized in operating expenses increased by $503 million.",
+        "context": "Research and development expense increased $272 million, or 6%, in fiscal year 2020, compared to the prior fiscal year. The increase was primarily due to our acquisition of the Symantec Business... Selling, general and administrative expense increased $226 million, or 13%, in fiscal year 2020... The increase was primarily due to our acquisition of the Symantec Business and associated acquisition-related costs... Amortization of acquisition-related intangible assets recognized in operating expenses increased $503 million, or 27%, in fiscal year 2020."
+    },
+    {
+        "Question": "What was the aggregate market value of Broadcom Inc.'s voting and non-voting common equity held by non-affiliates as of May 3, 2019?",
+        "Answer": "$122.7 billion",
+        "Context": "The aggregate market value of voting and non-voting common equity held by non-affiliates as of May 3, 2019, based upon the closing sale price of such shares on The Nasdaq Global Select Market on such date was approximately $122.7 billion."
+    },
+    {
+        "Question": "How many shares of common stock did Broadcom Inc. have outstanding as of November 29, 2019?",
+        "Answer": "397,792,289 shares",
+        "Context": "As of November 29, 2019, the registrant had 397,792,289 shares of its common stock, $0.001 par value per share, outstanding."
+    },
+    {
+        "question": "What was the reported net revenue of Broadcom for the fiscal year ended October 29, 2023?",
+        "answer": "$33,912 million",
+        "context": "Our net revenue for fiscal year 2023 was $33,912 million."
+    },
+    {
+        "question": "What significant corporate acquisition did Broadcom complete on November 22, 2023?",
+        "answer": "Broadcom completed the acquisition of VMware in a cash-and-stock transaction.",
+        "context": "On November 22, 2023, we acquired VMware in a cash-and-stock transaction (the 'VMware Merger')..."
+    },
+    {
+        "Question": "What new solutions did Salesforce introduce in fiscal year 2022 to address specific industry needs?",
+        "Answer": "In fiscal year 2022, Salesforce introduced the Health & Safety Solution, or Dreampass, which helps companies safely return to work, manage contact tracing, and helps with vaccine distribution. They also introduced the Net Zero Cloud, which helps customers analyze and report on their carbon footprint.",
+        "Context": "In fiscal year 2022, as a result of customer input and demand, we introduced our Health & Safety Solution, or Dreampass, which helps companies safely return to work, travel, manage contact tracing, and also helps governments, healthcare providers, nonprofits, and organizations distribute vaccines around the world. We also introduced Net Zero Cloud, which helps customers analyze and report on their carbon footprint and provide actionable insights on emissions data in order to create long-term, sustainable value."
+    },
+    {
+        "Question": "How is Salesforce enhancing customer service capabilities as of fiscal 2022?",
+        "Answer": "Salesforce's Service offering enables companies to deliver personalized customer service at scale. It connects service agents with customers across any touchpoint and includes predictive recommendations and chatbots to resolve issues across digital channels.",
+        "Context": "Service. Service enables companies to deliver trusted and highly personalized customer service and support at scale. Our customers use our Service offering to connect their service agents with customers anytime and anywhere, across any touchpoint from the phone to digital channels to self-service portals, with connected omnichannel engagement. Our Service offering also helps our customers\u2019 customers resolve top, routine issues with predictions, recommendations and chatbots across digital channels."
+    },
+    {
+        "Question": "What new technology did Salesforce introduce in fiscal year 2023 to enhance real-time data integration across its platforms?",
+        "Answer": "Salesforce introduced the Genie Customer Data Cloud in fiscal year 2023, which is a hyperscale real-time data platform that powers the entire Salesforce Customer 360 platform, enabling seamless, personalized customer experiences.",
+        "Context": "Customer Data Cloud. At Dreamforce 2022, we announced the Genie Customer Data Cloud ('Genie'), a hyperscale real-time data platform that powers the entire Salesforce Customer 360 platform. With Genie, companies can power seamless, highly personalized experiences across sales, service, marketing and commerce that continuously adapt to changing customer information and needs in real time."
+    },
+    {
+        "Question": "How is Salesforce advancing its service offerings to address the needs of specific industries as of 2023?",
+        "Answer": "Salesforce has developed industry-specific solutions like the Financial Services Cloud, Health Cloud, and Sustainability Cloud, which provide tailored features and capabilities to meet the unique needs of different sectors, helping them to manage compliance and customer relations effectively.",
+        "Context": "Industry Verticals. Our industry vertical service offerings are suited to meet the needs of our customers in specific industries, such as financial services, healthcare and life sciences, manufacturing and more. They include out-of-the-box capabilities that provide the speed and flexibility to keep up with changing times and customer demands, accelerating time to value."
+    },
+    {
+        "Question": "What strategic acquisitions did Salesforce complete in fiscal 2020 to enhance their service offerings?",
+        "Answer": "In fiscal 2020, Salesforce completed the acquisitions of MuleSoft, an integration platform company, and Tableau, an analytics company, to expand their service offerings.",
+        "Context": "To advance the development of the Customer 360 platform, we have been acquisitive. For example, in fiscal year 2019, we acquired MuleSoft, Inc. ('MuleSoft'), an integration platform company, and in fiscal year 2020, we acquired Tableau Software Inc. ('Tableau'), an analytics company."
+    },
+    {
+        "Question": "What are the core values that drive Salesforce's business and how do they influence company culture?",
+        "Answer": "Salesforce is driven by core values of trust, customer success, innovation, and equality. These values foster trust in technology, focus on customer success, drive continuous innovation, and promote equality and diversity within the company and community, influencing a culture of dialogue, collaboration, and recognition.",
+        "Context": "Salesforce is committed to a core set of values: trust, customer success, innovation and equality. Foremost among these is trust, which is the foundation for everything we do. Our customers trust our technology to deliver the highest levels of security, privacy, performance and availability at scale. Customer success is at the core of our business, with people, programs and a focus on making every customer successful. We believe our continuous innovation drives customer success and builds trust, which in turn drives mutual growth. Finally, we value the equality of every individual at our company and in our community as we believe that equality, sustainability and diversity make us a better company. Our culture is driven by these four core values which in turn fosters dialogue, collaboration, recognition and a sense of family."
+    },
+    {
+        "Question": "What significant acquisition did Salesforce complete in fiscal year 2021 to expand its industry-specific offerings?",
+        "Answer": "Salesforce acquired Vlocity, Inc., an industry-specific cloud and mobile software solutions company, in fiscal year 2021.",
+        "Context": "In fiscal year 2021, we acquired Vlocity, Inc. ('Vlocity'), an industry-specific cloud and mobile software solutions company."
+    },
+    {
+        "Question": "How does Salesforce's acquisition of Slack, expected to close in the second quarter of fiscal 2022, align with its growth strategy?",
+        "Answer": "The acquisition of Slack is expected to enhance Salesforce's growth strategy by integrating Slack's leading channel-based messaging platform, thereby expanding Salesforce's offerings and capabilities in workplace communication.",
+        "Context": "We also signed a definitive agreement to acquire Slack Technologies, Inc. ('Slack'), a leading channel-based messaging platform, which is expected to close in the second quarter of fiscal 2022."
+    },
+    {
+        "Question": "What new platform did Salesforce introduce in 2024 to enhance AI-powered app development?",
+        "Answer": "Salesforce introduced the Einstein 1 Platform in 2024, which enables customers to connect data and build AI-powered apps with low-code, transforming CRM experiences.",
+        "Context": "As a result of customer feedback, in fiscal 2024 we introduced the Einstein 1 platform, which allows our customers to connect data to build AI-powered apps with low-code and deliver entirely new CRM experiences."
+    },
+    {
+        "Question": "How is Salesforce's Slack offering integrated into its Customer 360 platform to boost productivity across teams?",
+        "Answer": "Slack is deeply integrated into Salesforce's Customer 360, enhancing productivity across sales, service, and marketing teams by bringing together the right people, processes, and customer data within Slack.",
+        "Context": "With Slack Sales Elevate, for example, sales teams can improve productivity and accelerate deals to close by bringing together the right people, processes and customer data from Sales Cloud within Slack."
+    },
+    {
+        "Question": "What strategic areas is Microsoft focusing on to drive its business model?",
+        "Answer": "Microsoft is focusing on creating platform-based ecosystems for building diverse solutions, developing compelling cloud-based experiences, and enhancing the security and reliability of its products and services.",
+        "Context": "Microsoft's business model focuses on creating platform-based ecosystems, developing compelling cloud-based experiences, and ensuring the security and reliability of its products and services to drive user engagement and growth."
+    },
+    {
+        "Question": "How is Microsoft addressing the security challenges in its operations?",
+        "Answer": "Microsoft is addressing security challenges by engineering more secure products, enhancing security features, improving the deployment of software updates, maintaining digital security infrastructure, and providing security tools and information.",
+        "Context": "Microsoft addresses security challenges by continuously engineering more secure products, enhancing security and reliability features, improving the deployment of software updates, maintaining the digital security infrastructure, and providing security tools and information to safeguard systems and data."
+    },
+    {
+        "Question": "What were Microsoft's key investment areas in digital transformation as outlined in their 2021 Form 10-K?",
+        "Answer": "Microsoft's key investment areas in digital transformation include transforming the workplace, running cloud-based services, applying AI for insights, using Windows to fuel cloud business and Microsoft 365, and creating new gaming experiences.",
+        "Context": "Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions. We are investing significant resources in: transforming the workplace to deliver new modern, modular business applications; building and running cloud-based services; applying AI to drive insights; using Windows to fuel our cloud business and Microsoft 365 strategy; and inventing new gaming experiences."
+    },
+    {
+        "Question": "What commitments did Microsoft announce regarding environmental sustainability by 2030?",
+        "Answer": "By 2030, Microsoft committed to being carbon negative, water positive, zero waste, and to protect ecosystems by developing a Planetary Computer.",
+        "Context": "In January 2020, we announced a bold commitment and detailed plan to be carbon negative by 2030, and to remove from the environment by 2050 all the carbon we have emitted since our founding in 1975. This included a commitment to invest $1 billion over four years in new technologies and innovative climate solutions. We built on this pledge by adding commitments to be water positive by 2030, zero waste by 2030, and to protect ecosystems by developing a Planetary Computer."
+    },
+    {
+        "Question": "What is Microsoft's approach to handling the challenges posed by the COVID-19 pandemic as described in their 2020 Form 10-K?",
+        "Answer": "Microsoft's approach includes ensuring the safety of their employees, striving to protect the health and well-being of the communities they operate in, and providing technology and resources to customers to help them work remotely.",
+        "Context": "As the world responds to the outbreak of a novel strain of the coronavirus ('COVID-19'), we are working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers to help them do their best work while remote."
+    },
+    {
+        "Question": "What are Microsoft's key investment areas to drive its business model as discussed in their 2020 10-K?",
+        "Answer": "Microsoft is focusing on transforming the workplace, building and running cloud-based services, applying AI to drive insights, using Windows to fuel their cloud business and Microsoft 365 strategy, and inventing new gaming experiences.",
+        "Context": "Our success is based on our ability to create new and compelling products, services, and experiences for our users, to initiate and embrace disruptive technology trends, to enter new geographic and product markets, and to drive broad adoption of our products and services. We invest in a range of emerging technology trends and breakthroughs that we believe offer significant opportunities to deliver value to our customers and growth for the Company."
+    },
+    {
+        "Question": "What strategic commitments has Microsoft made regarding sustainability by 2030?",
+        "Answer": "By 2030, Microsoft has committed to being carbon negative, water positive, zero waste, and to protect ecosystems by developing a Planetary Computer.",
+        "Context": "In 2020, we committed to being a carbon negative, water positive, and zero waste company by 2030. We also aim to protect ecosystems by developing a Planetary Computer."
+    },
+    {
+        "Question": "How is Microsoft advancing its AI capabilities as described in their 2023 Form 10-K?",
+        "Answer": "Microsoft is expanding its AI capabilities across its product portfolio, including Microsoft Teams, Outlook, Bing, and Xbox, by infusing generative AI to deliver copilot capabilities for services across the Microsoft Cloud.",
+        "Context": "Our investment in AI spans the entire company, from Microsoft Teams and Outlook, to Bing and Xbox, and we are infusing generative AI capability into our consumer and commercial offerings to deliver copilot capability for all services across the Microsoft Cloud."
+    },
+    {
+        "Question": "What significant acquisition did Microsoft complete in March 2022 as mentioned in their 2022 Form 10-K?",
+        "Answer": "Microsoft completed the acquisition of Nuance Communications, Inc. in March 2022.",
+        "Context": "In March 2022, we completed our acquisition of Nuance Communications, Inc. Together, Microsoft and Nuance will enable organizations across industries to accelerate their business goals with security-focused, cloud-based solutions infused with powerful, vertically optimized AI."
+    },
+    {
+        "Question": "What is Microsoft's vision for the future of personal computing as described in their 2022 Form 10-K?",
+        "Answer": "Microsoft's vision for the future of personal computing includes empowering people and organizations to be productive and secure as they adapt to more fluid ways of working, learning, and playing, leveraging cloud services like Windows 365.",
+        "Context": "Microsoft 365 is empowering people and organizations to be productive and secure as they adapt to more fluid ways of working, learning, and playing. Windows also plays a critical role in fueling our cloud business with Windows 365, a desktop operating system that\u2019s also a cloud service."
+    },
+    {
+        "Question": "What are the key components of Oracle's cloud strategy as outlined in their 2019 Form 10-K?",
+        "Answer": "Oracle's cloud strategy includes expanding its Oracle Cloud Services to provide a comprehensive and integrated stack of applications and infrastructure services via a cloud-based deployment model. The strategy emphasizes flexibility, rapid deployment, customer choice, and interoperability across various IT deployment models including on-premise, cloud, and hybrid setups.",
+        "Context": "Oracle provides products and services that address enterprise information technology (IT) environments. Our products and services include applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models. These models include on-premise deployments, cloud-based deployments, and hybrid deployments (an approach that combines both on-premise and cloud-based deployment) such as our Oracle Cloud at Customer offering (an instance of Oracle Cloud in a customer\u2019s own data center). Accordingly, we offer choice and flexibility to our customers and facilitate the product, service and deployment combinations that best suit our customers\u2019 needs. Our customers include businesses of many sizes, government agencies, educational institutions and resellers that we market and sell to directly through our worldwide sales force and indirectly through the Oracle Partner Network."
+    },
+    {
+        "Question": "What were Oracle's total revenues from its cloud and license business as a percentage of overall revenues in fiscal years 2017, 2018, and 2019?",
+        "Answer": "In fiscal years 2017, 2018, and 2019, Oracle's cloud and license business revenues represented 80%, 81%, and 83% of the total revenues, respectively.",
+        "Context": "We have three businesses: our cloud and license business, which is comprised of a single operating segment and includes our Oracle Cloud Services offerings, cloud license and on-premise license offerings, and license support offerings, represented 83%, 81% and 80% of our total revenues in fiscal 2019, 2018 and 2017, respectively."
+    },
+    {
+        "Question": "What was Oracle's total revenue from its cloud and license business as a percentage of overall revenue in fiscal 2020?",
+        "Answer": "83%",
+        "Context": "Our cloud and license business, which is comprised of a single operating segment and includes our Oracle Cloud Services offerings, cloud license and on-premise license offerings, and license support offerings, represented 83% of our total revenues in fiscal 2020."
+    },
+    {
+        "Question": "How is Oracle addressing the COVID-19 pandemic in terms of supporting critical services and organizations?",
+        "Answer": "Oracle has provided critical technologies, programs, and support to telecommunications companies, retailers, researchers, hospitals, airlines, banks, insurers, governments, utilities, and other organizations to help them continue operations during the pandemic.",
+        "Context": "Oracle is committed to the health, safety, and welfare of our employees, customers, suppliers, communities, stockholders, and other stakeholders. While the world continues to navigate the risks and uncertainties associated with the COVID-19 pandemic, we are committed to providing critical technologies, programs, and support to individuals and organizations to navigate, adjust and continue their operations in light of the unique demands and constraints imposed by the pandemic. For decades, we have developed, delivered, and supported products and services that enable telecommunication companies to keep people connected; retailers to provide food and other necessities; researchers to identify solutions; hospitals to provide care; airlines to ensure travel; banks to help people access funds; insurers to provide benefits; governments to keep people safe and informed; utilities to supply power and water; and many other critical functions."
+    },
+    {
+        "Question": "What new cloud services did Oracle introduce in fiscal 2021 to enhance their infrastructure and application offerings?",
+        "Answer": "Oracle introduced new cloud services that include security services and Oracle Logistics, which helps organizations improve their supply chains.",
+        "Context": "In fiscal 2021, Oracle introduced new cloud services including security services that help secure users' IT environments and Oracle Logistics, which offers tools to improve supply chain and transportation management."
+    },
+    {
+        "Question": "How did Oracle's investment in research and development in fiscal year 2021 compare to the previous year?",
+        "Answer": "$6.5 billion in 2021, compared to $6.1 billion in 2020",
+        "Context": "In fiscal 2021, 2020 and 2019, we invested $6.5 billion, $6.1 billion and $6.0 billion, respectively, in research and development to enhance our existing portfolio of offerings and products and to develop new technologies and services."
+    },
+    {
+        "Question": "What major corporate acquisition did Oracle complete in June 2022?",
+        "Answer": "Oracle completed the acquisition of Cerner Corporation in June 2022.",
+        "Context": "We have invested billions of dollars over time to acquire a number of companies, products, services, and technologies that add to, are complementary to, or have otherwise enhanced our existing offerings, including our acquisition of Cerner Corporation in June 2022."
+    },
+    {
+        "Question": "How much did Oracle invest in research and development in fiscal 2022?",
+        "Answer": "$7.2 billion",
+        "Context": "In fiscal 2022, 2021, and 2020, we invested $7.2 billion, $6.5 billion, and $6.1 billion, respectively, in research and development to enhance our existing portfolio of offerings and to develop new technologies and services."
+    },
+    {
+        "Question": "How much did Oracle invest in research and development in fiscal year 2023, and how does this compare to previous years?",
+        "Answer": "In fiscal year 2023, Oracle invested $8.6 billion in research and development, compared to $7.2 billion in 2022 and $6.5 billion in 2021.",
+        "Context": "In fiscal 2023, 2022 and 2021, we invested $8.6 billion, $7.2 billion and $6.5 billion, respectively, in research and development to enhance our existing portfolio of offerings and to develop new technologies and services."
+    },
+    {
+        "Question": "What percentage of Oracle's total revenues was represented by cloud services in fiscal years 2021, 2022, and 2023?",
+        "Answer": "Cloud services revenues represented 22% of total revenues in 2021, 25% in 2022, and 32% in 2023.",
+        "Context": "The proportion of our cloud services revenues relative to our total revenues has increased and our cloud services revenues represented 32%, 25% and 22% of our total revenues during fiscal 2023, 2022 and 2021, respectively."
+    },
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2022?",
+        "answer": "$282.8 billion",
+        "context": "For the fiscal year ended December 31, 2022, our total revenues were $282.8 billion."
+    },
+    {
+        "question": "What were the primary drivers of Google's revenue growth in 2022?",
+        "answer": "The primary drivers of Google's revenue growth in 2022 were increased advertising revenues from Google Search, YouTube, and Network Members' properties.",
+        "context": "The increase in our total revenues in 2022 was primarily driven by increased advertising revenues from Google Search, YouTube, and Network Members' properties."
+    },
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2021?",
+        "answer": "$257 billion",
+        "context": "In 2021, we generated $257 billion in revenue."
+    },
+    {
+        "question": "How much did Google invest in research and development in 2021, and what percentage of total revenue did this represent?",
+        "answer": "$31 billion, which represented approximately 12% of its total revenue",
+        "context": "We invested $31 billion in R&D, about 12% of our revenue."
+    },
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2020, and how does it compare to the previous year?",
+        "answer": "Google's total revenue for the fiscal year ended December 31, 2020, was $182.5 billion, an increase from $161.9 billion in 2019.",
+        "context": "For the fiscal year ended December 31, 2020, Google reported revenues of $182.5 billion, compared to $161.9 billion in 2019, reflecting continued growth across Google Services and Google Cloud."
+    },
+    {
+        "question": "How did Google's operating income change in 2020 compared to 2019?",
+        "answer": "Google's operating income in 2020 was $41.2 billion, up from $34.2 billion in 2019.",
+        "context": "Operating income for 2020 was $41.2 billion, up from $34.2 billion the previous year, reflecting our strong growth and ongoing investments in research and development."
+    },
+    {
+        "Question": "What was Google's total revenue for the fiscal year ended December 31, 2019, and how does it compare to the previous year?",
+        "Answer": "Google's total revenue for the fiscal year ended December 31, 2019, was $161.9 billion, which represents an 18% growth year over year from $136.8 billion in 2018.",
+        "Context": "Executive Overview of Results Below are our key financial results for the fiscal year ended December 31, 2019 (consolidated unless otherwise noted): \u2022 Revenues of $161.9 billion and revenue growth of 18% year over year, constant currency revenue growth of 20% year over year."
+    },
+    {
+        "Question": "What are the main revenue streams contributing to Google's non-advertising revenue growth?",
+        "Answer": "Google's non-advertising revenue growth is primarily driven by sales of apps, in-app purchases, digital content products, hardware, licensing and service fees, including fees received for Google Cloud offerings, and subscription and other services.",
+        "Context": "The portion of our revenues that we derive from non-advertising revenues is increasing and may affect margins. Non-advertising revenues have grown over time. We expect this trend to continue as we focus on expanding our offerings to our users through products and services like Google Cloud, Google Play, hardware products, and YouTube subscriptions."
+    },
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2023?",
+        "answer": "$320 billion",
+        "context": "For the fiscal year ended December 31, 2023, our total revenues were $320 billion."
+    },
+    {
+        "question": "What are the primary focuses of Google's AI investment as outlined in the 2023 annual report?",
+        "answer": "Google's primary focuses of AI investment include enhancing its AI infrastructure, offering AI-optimized infrastructure, and developing AI platforms and generative AI models to support productivity and innovation.",
+        "context": "We aim to build the most advanced, safe, and responsible AI with models that are developed, trained, and rigorously tested at scale powered by our continued investment in AI technical infrastructure. In December 2023, we launched Gemini, our most capable and general model."
+    },
+    {
+        "Question": "What are the main products and services offered by Tesla as of the end of 2019?",
+        "Answer": "As of the end of 2019, Tesla offers high-performance fully electric vehicles and energy generation and storage systems. Their products include electric vehicles like Model 3, Model Y, Model S, Model X, Cybertruck, Tesla Semi, and a new Tesla Roadster. Tesla also offers services related to its products, such as vehicle service centers, Mobile Service technicians, body shops, Supercharger stations, and Destination Chargers.",
+        "Context": "We design, develop, manufacture, sell and lease high-performance fully electric vehicles and energy generation and storage systems, and offer services related to our products. We are the world\u2019s first vertically integrated sustainable energy company, offering end-to-end clean energy products, including generation, storage and consumption. We generally sell our products directly to customers, including through our website and retail locations."
+    },
+    {
+        "Question": "What new vehicle platforms did Tesla begin producing in 2019?",
+        "Answer": "In 2019, Tesla began producing the Model Y, a compact sport utility vehicle built on the Model 3 platform. Tesla also started ramping up production of Model 3 at Gigafactory Shanghai.",
+        "Context": "Model Y is a compact sport utility vehicle (SUV) built on the Model 3 platform with the capability for seating for up to seven adults, which we began producing in January 2020 and expect to commence delivering in the first quarter of 2020. We currently manufacture Model Y at the Fremont Factory, and are further ramping production there and making preparations for production next at Gigafactory Shanghai. We currently offer Model Y in dual motor all-wheel drive Long Range and Performance versions."
+    },
+    {
+        "Question": "What new vehicle models did Tesla begin delivering in 2022?",
+        "Answer": "In 2022, Tesla began early production and deliveries of the Tesla Semi, its first commercial electric vehicle.",
+        "Context": "In December 2022, we began early production and deliveries of the Tesla Semi, our first commercial electric vehicle."
+    },
+    {
+        "Question": "What significant technology did Tesla introduce in 2022 for energy storage?",
+        "Answer": "Tesla introduced Megapack, a lithium-ion battery energy storage product for commercial, industrial, utility, and energy generation customers.",
+        "Context": "Energy Storage Products Powerwall and Megapack are our lithium-ion battery energy storage products. Powerwall is designed to store energy at a home or small commercial facility. Megapack is an energy storage solution for commercial, industrial, utility and energy generation customers."
+    },
+    {
+        "Question": "What innovative vehicle did Tesla begin delivering to customers in November 2023?",
+        "Answer": "In November 2023, Tesla began delivering the Cybertruck, a full-size electric pickup truck with a stainless steel exterior.",
+        "Context": "In November 2023, we entered the consumer pickup truck market with first deliveries of the Cybertruck, a full-size electric pickup truck with a stainless steel exterior that has the utility and strength of a truck while featuring the speed of a sports car."
+    },
+    {
+        "Question": "What new manufacturing facility did Tesla announce in March 2023, and what is its significance?",
+        "Answer": "In March 2023, Tesla announced the location of their next Gigafactory in Monterrey, Mexico. This facility is significant as it helps Tesla increase production capacity and cost-competitiveness in significant markets by adding local manufacturing.",
+        "Context": "In March 2023, we announced the location of our next Gigafactory in Monterrey, Mexico. Generally, we continue to expand production capacity at our existing facilities. We also intend to further increase cost-competitiveness in our significant markets by strategically adding local manufacturing."
+    },
+    {
+        "Question": "What are the key product lines of Tesla as detailed in their 2020 Form 10-K?",
+        "Answer": "Tesla's key product lines include electric vehicles such as Model 3, Model Y, Model S, and Model X, as well as energy generation and storage products like solar energy systems and battery storage solutions.",
+        "Context": "Tesla, Inc. designs, develops, manufactures, and sells high-performance fully electric vehicles and energy generation and storage systems. Tesla's automotive segment includes electric vehicles such as Model S, Model 3, Model X, and Model Y. The energy generation and storage segment includes products like Powerwall, Powerpack, and Solar Roof."
+    },
+    {
+        "Question": "How has Tesla structured its business operations into reportable segments as of 2020?",
+        "Answer": "As of 2020, Tesla has structured its business operations into two reportable segments: Automotive and Energy Generation and Storage.",
+        "Context": "Tesla operates two reportable business segments: Automotive and Energy Generation and Storage. The Automotive segment focuses on the design, development, manufacturing, and sale of electric vehicles. The Energy Generation and Storage segment deals with the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products."
+    },
+    {
+        "Question": "What new models did Tesla begin delivering in 2021?",
+        "Answer": "In 2021, Tesla began delivering new versions of the Model S and Model X, which offer higher performance and range.",
+        "Context": "Model S and Model X feature the highest performance characteristics and longest ranges that we offer in a sedan and SUV, respectively, and we manufacture both models at the Fremont Factory. In 2021, we began delivering new versions of the Model S and Model X, which offer higher performance and range."
+    },
+    {
+        "Question": "What major production facilities does Tesla plan to begin manufacturing at in 2022?",
+        "Answer": "Tesla plans to begin production at Gigafactory Berlin in Germany and Gigafactory Texas in Austin, Texas in 2022.",
+        "Context": "We also intend to further increase cost-competitiveness in our significant markets by strategically adding local manufacturing, including at Gigafactory Berlin in Germany and Gigafactory Texas in Austin, Texas, which will begin production in 2022."
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "What was Apple Inc.'s aggregate market value of the voting and non-voting stock held by non-affiliates as of March 27, 2020?",
+            "answer": "Approximately $1,070,633,000,000",
+            "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 27, 2020, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $1,070,633,000,000."
+        },
+        {
+            "question": "What was the total number of Apple Inc.'s common stock shares issued and outstanding as of October 16, 2020?",
+            "answer": "17,001,802,000 shares",
+            "context": "17,001,802,000 shares of common stock were issued and outstanding as of October 16, 2020."
+        }
+    ]
+}

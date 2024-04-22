@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "What are the reported net sales figures for Amazon in North America and Internationally for the year 2020?",
+        "Answer": "In 2020, Amazon reported net sales of $236,282 million in North America and $104,412 million internationally.",
+        "Context": "Net sales include product and service sales. Product sales represent revenue from the sale of products and related shipping fees and digital media content where we record revenue gross. Service sales primarily represent third-party seller fees, which includes commissions and any related fulfillment and shipping fees, AWS sales, advertising services, Amazon Prime membership fees, and certain digital content subscriptions. Net sales information is as follows (in millions): Year Ended December 31, 2019 2020 Net Sales: North America $170,773 $236,282 International $74,723 $104,412 AWS $35,026 $45,370 Consolidated $280,522 $386,064."
+    },
+    {
+        "Question": "What was the operating income for Amazon's AWS segment for the year 2020?",
+        "Answer": "The operating income for Amazon's AWS segment in 2020 was $13,531 million.",
+        "Context": "Operating Income (Loss) by segment is as follows (in millions): Year Ended December 31, 2019 2020 Operating Income (Loss): North America $7,033 $8,651 International ($1,693) $717 AWS $9,201 $13,531 Consolidated $14,541 $22,899."
+    }
+]

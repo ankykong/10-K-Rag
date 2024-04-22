@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2021?",
+            "answer": "$857 billion",
+            "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 30, 2021, the last business day of the registrant's most recently completed second fiscal quarter, was $857 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+        },
+        {
+            "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 28, 2022?",
+            "answer": "As of January 28, 2022, Meta had 2,309,080,018 shares of Class A common stock and 412,861,942 shares of Class B common stock outstanding.",
+            "context": "On January 28, 2022, the registrant had 2,309,080,018 shares of Class A common stock and 412,861,942 shares of Class B common stock outstanding."
+        },
+        {
+            "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 30, 2020?",
+            "answer": "$563 billion",
+            "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 30, 2020, the last business day of the registrant's most recently completed second fiscal quarter, was $563 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+        },
+        {
+            "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 22, 2021?",
+            "answer": "As of January 22, 2021, Meta had 2,405,448,410 shares of Class A common stock and 442,221,541 shares of Class B common stock outstanding.",
+            "context": "On January 22, 2021, the registrant had 2,405,448,410 shares of Class A common stock and 442,221,541 shares of Class B common stock outstanding."
+        },
+        {
+            "question": "What was Meta's aggregate market value of the voting and non-voting stock held by non-affiliates as of June 28, 2019?",
+            "answer": "$478 billion",
+            "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 28, 2019, the last business day of the registrant's most recently completed second fiscal quarter, was $478 billion based upon the closing price reported for such date on the Nasdaq Global Select Market."
+        },
+        {
+            "question": "How many shares of Class A and Class B common stock did Meta have outstanding as of January 23, 2020?",
+            "answer": "As of January 23, 2020, Meta had 2,405,745,740 shares of Class A common stock and 444,704,919 shares of Class B common stock outstanding.",
+            "context": "On January 23, 2020, the registrant had 2,405,745,740 shares of Class A common stock and 444,704,919 shares of Class B common stock outstanding."
+        },
+        {
+            "Question": "What is Meta Platforms, Inc.'s total investment in the Reality Labs segment for the year 2022?",
+            "Answer": "$15.88 billion",
+            "Context": "Our total RL investments were $15.88 billion in 2022 and include expenses relating to headcount and technology development across these efforts."
+        },
+        {
+            "Question": "What percentage of Meta Platforms, Inc.'s total costs and expenses in 2022 was recognized in the Family of Apps segment?",
+            "Answer": "82%",
+            "Context": "In 2022, 82% of our total costs and expenses were recognized in FoA and 18% were recognized in RL."
+        },
+        {
+            "Question": "What are the key investment areas Meta Platforms, Inc. plans to focus on in 2024?",
+            "Answer": "AI, the metaverse, discovery engine, monetization of products and services, regulatory readiness, and enhancing developer efficiency.",
+            "Context": "In 2024, we intend to focus on six key investment areas: AI, the metaverse, our discovery engine, monetization of our products and services, regulatory readiness, and enhancing developer efficiency to build, iterate, and optimize products quickly."
+        },
+        {
+            "Question": "How did Meta Platforms, Inc. allocate its total investments in the Reality Labs and Family of Apps segments in 2023?",
+            "Answer": "In 2023, 80% of total costs and expenses were recognized in the Family of Apps segment and 20% in the Reality Labs segment.",
+            "Context": "The majority of our investments are directed toward developing our family of apps. In 2023, 80% of our total costs and expenses were recognized in FoA and 20% were recognized in RL."
+        }
+    ]
+]

@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "question": "What was Broadcom's total revenue for the fiscal year ended October 30, 2022?",
+            "answer": "$33,912 million",
+            "context": "Our net revenue for fiscal year 2022 was $33,912 million, up 21% from $27,979 million in fiscal year 2021."
+        },
+        {
+            "question": "How did Broadcom's research and development expenses change in fiscal year 2022 compared to fiscal year 2021?",
+            "answer": "Research and development expenses increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021.",
+            "context": "Research and development expense increased to $4,789 million in fiscal year 2022 from $4,471 million in fiscal year 2021."
+        },
+        {
+            "question": "What was the percentage of Broadcom's net revenue derived from sales to distributors in fiscal year 2021?",
+            "answer": "53%",
+            "context": "Sales of products to distributors accounted for 53% and 42% of our net revenue for fiscal years 2021 and 2020, respectively."
+        },
+        {
+            "question": "What percentage of Broadcom's 2021 fiscal year net revenue came from Apple Inc.?",
+            "answer": "Approximately 20%",
+            "context": "We believe aggregate sales to Apple Inc., through all channels, accounted for approximately 20% and 15% of our net revenue for fiscal years 2021 and 2020, respectively."
+        },
+        {
+            "question": "What was Broadcom's gross margin in fiscal year 2020, and how did it compare to fiscal year 2019?",
+            "answer": "Broadcom's gross margin in fiscal year 2020 was $13,516 million, which represented 57% of net revenue. This was an increase from fiscal year 2019, where the gross margin was $12,483 million, representing 55% of net revenue.",
+            "context": "Gross margin was $13,516 million, or 57% of net revenue, for fiscal year 2020, compared to $12,483 million, or 55% of our net revenue, for fiscal year 2019. The increase was primarily due to contributions from our Symantec enterprise security solutions, as well as favorable product mix within our semiconductor solutions segment, compared to the corresponding prior fiscal year."
+        },
+        {
+            "question": "How did Broadcom's acquisition of the Symantec Business impact its operating expenses in fiscal year 2020?",
+            "answer": "The acquisition of the Symantec Business led to an increase in several operating expenses in fiscal year 2020. Research and development expenses increased by $272 million, selling, general and administrative expenses increased by $226 million, and amortization of acquisition-related intangible assets recognized in operating expenses increased by $503 million.",
+            "context": "Research and development expense increased $272 million, or 6%, in fiscal year 2020, compared to the prior fiscal year. The increase was primarily due to our acquisition of the Symantec Business... Selling, general and administrative expense increased $226 million, or 13%, in fiscal year 2020... The increase was primarily due to our acquisition of the Symantec Business and associated acquisition-related costs... Amortization of acquisition-related intangible assets recognized in operating expenses increased $503 million, or 27%, in fiscal year 2020."
+        },
+        {
+            "Question": "What was the aggregate market value of Broadcom Inc.'s voting and non-voting common equity held by non-affiliates as of May 3, 2019?",
+            "Answer": "$122.7 billion",
+            "Context": "The aggregate market value of voting and non-voting common equity held by non-affiliates as of May 3, 2019, based upon the closing sale price of such shares on The Nasdaq Global Select Market on such date was approximately $122.7 billion."
+        },
+        {
+            "Question": "How many shares of common stock did Broadcom Inc. have outstanding as of November 29, 2019?",
+            "Answer": "397,792,289 shares",
+            "Context": "As of November 29, 2019, the registrant had 397,792,289 shares of its common stock, $0.001 par value per share, outstanding."
+        },
+        {
+            "question": "What was the reported net revenue of Broadcom for the fiscal year ended October 29, 2023?",
+            "answer": "$33,912 million",
+            "context": "Our net revenue for fiscal year 2023 was $33,912 million."
+        },
+        {
+            "question": "What significant corporate acquisition did Broadcom complete on November 22, 2023?",
+            "answer": "Broadcom completed the acquisition of VMware in a cash-and-stock transaction.",
+            "context": "On November 22, 2023, we acquired VMware in a cash-and-stock transaction (the 'VMware Merger')..."
+        }
+    ]
+]

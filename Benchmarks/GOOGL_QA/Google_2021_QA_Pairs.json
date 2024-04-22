@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2021?",
+        "answer": "$257 billion",
+        "context": "In 2021, we generated $257 billion in revenue."
+    },
+    {
+        "question": "How much did Google invest in research and development in 2021, and what percentage of total revenue did this represent?",
+        "answer": "$31 billion, which represented approximately 12% of its total revenue",
+        "context": "We invested $31 billion in R&D, about 12% of our revenue."
+    }
+]

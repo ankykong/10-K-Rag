@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "Question": "What are the reported net sales figures for Amazon in North America and Internationally for the year 2020?",
+            "Answer": "In 2020, Amazon reported net sales of $236,282 million in North America and $104,412 million internationally.",
+            "Context": "Net sales include product and service sales. Product sales represent revenue from the sale of products and related shipping fees and digital media content where we record revenue gross. Service sales primarily represent third-party seller fees, which includes commissions and any related fulfillment and shipping fees, AWS sales, advertising services, Amazon Prime membership fees, and certain digital content subscriptions. Net sales information is as follows (in millions): Year Ended December 31, 2019 2020 Net Sales: North America $170,773 $236,282 International $74,723 $104,412 AWS $35,026 $45,370 Consolidated $280,522 $386,064."
+        },
+        {
+            "Question": "What was the operating income for Amazon's AWS segment for the year 2020?",
+            "Answer": "The operating income for Amazon's AWS segment in 2020 was $13,531 million.",
+            "Context": "Operating Income (Loss) by segment is as follows (in millions): Year Ended December 31, 2019 2020 Operating Income (Loss): North America $7,033 $8,651 International ($1,693) $717 AWS $9,201 $13,531 Consolidated $14,541 $22,899."
+        },
+        {
+            "Question": "What was Amazon's net sales in 2020?",
+            "Answer": "$386 billion",
+            "Context": "Net sales increased 38% to $386 billion in 2020, compared with $280 billion in 2019."
+        },
+        {
+            "Question": "What percentage of Amazon's 2020 net sales were derived from international sales?",
+            "Answer": "27%",
+            "Context": "International net sales accounted for 27% of our net sales in 2020."
+        },
+        {
+            "Question": "What was Amazon's total net sales for the year ended December 31, 2022?",
+            "Answer": "Amazon's total net sales for the year ended December 31, 2022, were $513,983 million.",
+            "Context": "Net Sales: North America $279,833 $315,880, International $127,787 $118,007, AWS $62,202 $80,096, Consolidated $469,822 $513,983. Consolidated net sales increased by 9% in 2022."
+        },
+        {
+            "Question": "What strategy is Amazon employing to manage its growth?",
+            "Answer": "Amazon is rapidly and significantly expanding its global operations, including increasing its product and service offerings and scaling its infrastructure to support its retail and services businesses.",
+            "Context": "We are continuing to rapidly and significantly expand our global operations, including increasing our product and service offerings and scaling our infrastructure to support our retail and services businesses. The complexity of the current scale of our business can place significant strain on our management, personnel, operations, systems, technical performance, financial resources, and internal financial control and reporting functions, and our expansion increases these factors."
+        },
+        {
+            "Question": "What was Amazon's total net sales reported for the year ended December 31, 2023?",
+            "Answer": "$574,785 million",
+            "Context": "Net sales $ 513,983 $ 15,495 $ 529,478 $ 574,785 $ 71 $ 574,856"
+        },
+        {
+            "Question": "What is the expected impact of foreign exchange rates on Amazon's net sales for the first quarter of 2024?",
+            "Answer": "A favorable impact of approximately 40 basis points",
+            "Context": "First Quarter 2024 Guidance - Net sales are expected to be between $138.0 billion and $143.5 billion, or to grow between 8% and 13% compared with first quarter 2023. This guidance anticipates a favorable impact of approximately 40 basis points from foreign exchange rates."
+        },
+        {
+            "Question": "What was Amazon's total revenue in 2023?",
+            "Answer": "$574,785 million",
+            "Context": "Consolidated $ 469,822 $ 513,983 $ 574,785 - Consolidated total revenue listed by year with the 2023 total being $574,785 million."
+        },
+        {
+            "Question": "How much total long-term debt did Amazon report as of December 31, 2023?",
+            "Answer": "$67,182 million",
+            "Context": "Total face value of long-term debt 70,542 67,182 - As of December 31, 2023, Amazon's total face value of long-term debt was reported as $67,182 million."
+        }
+    ]
+]

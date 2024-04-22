@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "Question": "What strategic areas is Microsoft focusing on to drive its business model?",
+            "Answer": "Microsoft is focusing on creating platform-based ecosystems for building diverse solutions, developing compelling cloud-based experiences, and enhancing the security and reliability of its products and services.",
+            "Context": "Microsoft's business model focuses on creating platform-based ecosystems, developing compelling cloud-based experiences, and ensuring the security and reliability of its products and services to drive user engagement and growth."
+        },
+        {
+            "Question": "How is Microsoft addressing the security challenges in its operations?",
+            "Answer": "Microsoft is addressing security challenges by engineering more secure products, enhancing security features, improving the deployment of software updates, maintaining digital security infrastructure, and providing security tools and information.",
+            "Context": "Microsoft addresses security challenges by continuously engineering more secure products, enhancing security and reliability features, improving the deployment of software updates, maintaining the digital security infrastructure, and providing security tools and information to safeguard systems and data."
+        },
+        {
+            "Question": "What were Microsoft's key investment areas in digital transformation as outlined in their 2021 Form 10-K?",
+            "Answer": "Microsoft's key investment areas in digital transformation include transforming the workplace, running cloud-based services, applying AI for insights, using Windows to fuel cloud business and Microsoft 365, and creating new gaming experiences.",
+            "Context": "Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions. We are investing significant resources in: transforming the workplace to deliver new modern, modular business applications; building and running cloud-based services; applying AI to drive insights; using Windows to fuel our cloud business and Microsoft 365 strategy; and inventing new gaming experiences."
+        },
+        {
+            "Question": "What commitments did Microsoft announce regarding environmental sustainability by 2030?",
+            "Answer": "By 2030, Microsoft committed to being carbon negative, water positive, zero waste, and to protect ecosystems by developing a Planetary Computer.",
+            "Context": "In January 2020, we announced a bold commitment and detailed plan to be carbon negative by 2030, and to remove from the environment by 2050 all the carbon we have emitted since our founding in 1975. This included a commitment to invest $1 billion over four years in new technologies and innovative climate solutions. We built on this pledge by adding commitments to be water positive by 2030, zero waste by 2030, and to protect ecosystems by developing a Planetary Computer."
+        },
+        {
+            "Question": "What is Microsoft's approach to handling the challenges posed by the COVID-19 pandemic as described in their 2020 Form 10-K?",
+            "Answer": "Microsoft's approach includes ensuring the safety of their employees, striving to protect the health and well-being of the communities they operate in, and providing technology and resources to customers to help them work remotely.",
+            "Context": "As the world responds to the outbreak of a novel strain of the coronavirus ('COVID-19'), we are working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers to help them do their best work while remote."
+        },
+        {
+            "Question": "What are Microsoft's key investment areas to drive its business model as discussed in their 2020 10-K?",
+            "Answer": "Microsoft is focusing on transforming the workplace, building and running cloud-based services, applying AI to drive insights, using Windows to fuel their cloud business and Microsoft 365 strategy, and inventing new gaming experiences.",
+            "Context": "Our success is based on our ability to create new and compelling products, services, and experiences for our users, to initiate and embrace disruptive technology trends, to enter new geographic and product markets, and to drive broad adoption of our products and services. We invest in a range of emerging technology trends and breakthroughs that we believe offer significant opportunities to deliver value to our customers and growth for the Company."
+        },
+        {
+            "Question": "What strategic commitments has Microsoft made regarding sustainability by 2030?",
+            "Answer": "By 2030, Microsoft has committed to being carbon negative, water positive, zero waste, and to protect ecosystems by developing a Planetary Computer.",
+            "Context": "In 2020, we committed to being a carbon negative, water positive, and zero waste company by 2030. We also aim to protect ecosystems by developing a Planetary Computer."
+        },
+        {
+            "Question": "How is Microsoft advancing its AI capabilities as described in their 2023 Form 10-K?",
+            "Answer": "Microsoft is expanding its AI capabilities across its product portfolio, including Microsoft Teams, Outlook, Bing, and Xbox, by infusing generative AI to deliver copilot capabilities for services across the Microsoft Cloud.",
+            "Context": "Our investment in AI spans the entire company, from Microsoft Teams and Outlook, to Bing and Xbox, and we are infusing generative AI capability into our consumer and commercial offerings to deliver copilot capability for all services across the Microsoft Cloud."
+        },
+        {
+            "Question": "What significant acquisition did Microsoft complete in March 2022 as mentioned in their 2022 Form 10-K?",
+            "Answer": "Microsoft completed the acquisition of Nuance Communications, Inc. in March 2022.",
+            "Context": "In March 2022, we completed our acquisition of Nuance Communications, Inc. Together, Microsoft and Nuance will enable organizations across industries to accelerate their business goals with security-focused, cloud-based solutions infused with powerful, vertically optimized AI."
+        },
+        {
+            "Question": "What is Microsoft's vision for the future of personal computing as described in their 2022 Form 10-K?",
+            "Answer": "Microsoft's vision for the future of personal computing includes empowering people and organizations to be productive and secure as they adapt to more fluid ways of working, learning, and playing, leveraging cloud services like Windows 365.",
+            "Context": "Microsoft 365 is empowering people and organizations to be productive and secure as they adapt to more fluid ways of working, learning, and playing. Windows also plays a critical role in fueling our cloud business with Windows 365, a desktop operating system that\u2019s also a cloud service."
+        }
+    ]
+]

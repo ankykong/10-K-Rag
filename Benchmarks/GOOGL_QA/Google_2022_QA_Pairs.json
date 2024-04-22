@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What was Google's total revenue for the fiscal year ended December 31, 2022?",
+        "answer": "$282.8 billion",
+        "context": "For the fiscal year ended December 31, 2022, our total revenues were $282.8 billion."
+    },
+    {
+        "question": "What were the primary drivers of Google's revenue growth in 2022?",
+        "answer": "The primary drivers of Google's revenue growth in 2022 were increased advertising revenues from Google Search, YouTube, and Network Members' properties.",
+        "context": "The increase in our total revenues in 2022 was primarily driven by increased advertising revenues from Google Search, YouTube, and Network Members' properties."
+    }
+]

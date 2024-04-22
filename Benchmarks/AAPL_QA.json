@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "Question": "What is the fiscal year end date for Apple Inc. as reported in their 2022 Form 10-K?",
+            "Answer": "September 24, 2022",
+            "Context": "For the fiscal year ended September 24, 2022"
+        },
+        {
+            "Question": "How many shares of common stock were outstanding for Apple Inc. as of October 14, 2022?",
+            "Answer": "15,908,118,000 shares",
+            "Context": "15,908,118,000 shares of common stock were issued and outstanding as of October 14, 2022."
+        },
+        {
+            "Question": "What is the par value per share of Apple Inc.'s common stock as registered on The Nasdaq Stock Market LLC?",
+            "Answer": "$0.00001",
+            "Context": "Common Stock, $0.00001 par value per share AAPL The Nasdaq Stock Market LLC"
+        },
+        {
+            "Question": "What are the notable new products included in Apple Inc.'s iPhone line as reported in the fiscal year 2023?",
+            "Answer": "iPhone 15 Pro, iPhone 15",
+            "Context": "iPhone is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 15 Pro, iPhone 15, iPhone 14, iPhone 13 and iPhone SE."
+        },
+        {
+            "Question": "What were Apple's major competitive factors in 2021 according to their 10-K report?",
+            "Answer": "Apple identified price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation as the principal competitive factors in 2021.",
+            "Context": "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation."
+        },
+        {
+            "Question": "How much was Apple's aggregate market value of voting and non-voting stock held by non-affiliates as of March 26, 2021?",
+            "Answer": "As of March 26, 2021, the aggregate market value of the voting and non-voting stock held by non-affiliates of Apple was approximately $2,021,360,000,000.",
+            "Context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 26, 2021, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $2,021,360,000,000."
+        },
+        {
+            "Question": "What was the aggregate market value of the voting and non-voting stock held by non-affiliates of Apple Inc. as of March 29, 2019?",
+            "Answer": "The aggregate market value of the voting and non-voting stock held by non-affiliates of Apple Inc. as of March 29, 2019, was approximately $874,698,000,000.",
+            "Context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 29, 2019, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $874,698,000,000."
+        },
+        {
+            "Question": "How many shares of common stock were issued and outstanding for Apple Inc. as of October 18, 2019?",
+            "Answer": "As of October 18, 2019, Apple Inc. had 4,443,265,000 shares of common stock issued and outstanding.",
+            "Context": "4,443,265,000 shares of common stock were issued and outstanding as of October 18, 2019."
+        },
+        {
+            "question": "What was Apple Inc.'s aggregate market value of the voting and non-voting stock held by non-affiliates as of March 27, 2020?",
+            "answer": "Approximately $1,070,633,000,000",
+            "context": "The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 27, 2020, the last business day of the Registrant\u2019s most recently completed second fiscal quarter, was approximately $1,070,633,000,000."
+        },
+        {
+            "question": "What was the total number of Apple Inc.'s common stock shares issued and outstanding as of October 16, 2020?",
+            "answer": "17,001,802,000 shares",
+            "context": "17,001,802,000 shares of common stock were issued and outstanding as of October 16, 2020."
+        }
+    ]
+]

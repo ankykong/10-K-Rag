@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "What was the aggregate market value of Broadcom Inc.'s voting and non-voting common equity held by non-affiliates as of May 3, 2019?",
+        "Answer": "$122.7 billion",
+        "Context": "The aggregate market value of voting and non-voting common equity held by non-affiliates as of May 3, 2019, based upon the closing sale price of such shares on The Nasdaq Global Select Market on such date was approximately $122.7 billion."
+    },
+    {
+        "Question": "How many shares of common stock did Broadcom Inc. have outstanding as of November 29, 2019?",
+        "Answer": "397,792,289 shares",
+        "Context": "As of November 29, 2019, the registrant had 397,792,289 shares of its common stock, $0.001 par value per share, outstanding."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "What is the par value per share of Apple Inc.'s common stock as registered on The Nasdaq Stock Market LLC?",
+        "Answer": "$0.00001",
+        "Context": "Common Stock, $0.00001 par value per share AAPL The Nasdaq Stock Market LLC"
+    },
+    {
+        "Question": "What are the notable new products included in Apple Inc.'s iPhone line as reported in the fiscal year 2023?",
+        "Answer": "iPhone 15 Pro, iPhone 15",
+        "Context": "iPhone is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 15 Pro, iPhone 15, iPhone 14, iPhone 13 and iPhone SE."
+    }
+]
